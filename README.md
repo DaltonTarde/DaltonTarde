@@ -1,11 +1,16 @@
 Education:
-   BS Computer Science, BA English at San Diego State University
+
+BS Computer Science, BA English at [San Diego State University](https://sdsu.edu)
 
 Experience:
-   Software Engineer at <a href="https://sdsu.edu">San Diego State University</a>
-   Software Engineer at <a href="https://sdsu.edu">San Diego State University</a>
-   Software Engineer at <a href="https://sdsu.edu">San Diego State University</a>
-   Software Engineer at <a href="https://sdsu.edu">San Diego State University</a>
+
+Software Engineer at <a href="https://sdsu.edu">San Diego State University</a>
+
+Software Engineer at <a href="https://sdsu.edu">San Diego State University</a>
+
+Software Engineer at <a href="https://sdsu.edu">San Diego State University</a>
+
+Software Engineer at <a href="https://sdsu.edu">San Diego State University</a>
 
 Skills:
    Languages: C++, Python, Java, JavaScript, TypeScript, React.js, Next.js, Node.js, Hack/PHP, Swift, Kotlin, Go, Haskell
